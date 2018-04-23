@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Eiwa Blocker",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "no-eiwa",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "A chrome extension to block eiwa (English-to-Japanese) dictionary site and redirect to OALD",
+    "description": "The description of the application"
+  }
+}
